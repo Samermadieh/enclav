@@ -1,0 +1,53 @@
+# Node dependencies
+/node_modules
+/.pnp
+.pnp.js
+/.yarn/cache
+/.yarn/unplugged
+/.yarn/build-state.yml
+/.yarn/install-state.gz
+/.yarnrc.yml
+
+# Vite build
+/dist
+/.vite
+
+# Electron build
+/out
+/electron/dist
+/electron/*.asar
+
+# TypeScript build
+/**/*.tsbuildinfo
+/dist
+/lib
+/build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Test coverage
+/coverage
+/jest-coverage
+/vitest-coverage
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Env files
+.env
+.env.*.local
+
+# Misc
+*.tgz
+*.log
