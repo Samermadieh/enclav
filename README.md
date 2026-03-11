@@ -1,5 +1,16 @@
-![Logo](images/lobster.png)
+<img src="images/lobster.png" width="200"/>
 
-# Enclav – Easy, Fast, and Isolated OpenClaw Local Instances
+# Enclav – Isolated Local OpenClaw
 
-**Run OpenClaw securely and effortlessly on your local machine using a simple installer.**
+**Run OpenClaw securely and effortlessly on your local machine using a simple open source installer.**
+
+| Option            | Setup Complexity | Security Isolation | Cost  |
+|------------------|-----------------|------------------|-------|
+| **Enclav**        | ✅ Easy          | ✅ Isolated       | ✅ Free |
+| **Local**         | ❌ Complex       | ❌ Weak           | ✅ Free |
+| **VM/Cloud**      | ✅ Easy          | ✅ Isolated       | ❌ Paid |
+
+Requirement: Docker
+The installer will check if docker is installed and give you the option to install it.
+
+Note: Still a work in progress. Feel free to contribute or suggest anything.
