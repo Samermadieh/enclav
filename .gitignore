@@ -16,6 +16,7 @@
 /out
 /electron/dist
 /electron/*.asar
+/release
 
 # TypeScript build
 /**/*.tsbuildinfo

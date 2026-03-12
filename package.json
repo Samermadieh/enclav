@@ -35,8 +35,11 @@
   },
   "build": {
     "appId": "com.example.app",
+    "directories": {
+      "output": "release"
+    },
     "win": {
-      "target": "nsis"
+      "target": "portable"
     }
   }
 }
