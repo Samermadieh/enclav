@@ -4,7 +4,11 @@
 
 **Run OpenClaw securely and effortlessly on your local machine using a simple open source installer.**
 
-**Download v0.1.0 for windows [here](https://github.com/Samermadieh/enclav/releases/download/v0.1.0-alpha/Enclav-0.1.0-alpha-windows.zip)**
+**Download exe v0.1.0 for windows [here](https://github.com/Samermadieh/enclav/releases/download/v0.1.0-alpha/Enclav-0.1.0-alpha-windows.zip)**
+
+OR
+
+**Clone repo and use npm build, npm start to launch**
 
 | Option            | Setup Complexity | Security Isolation | Cost  |
 |------------------|-----------------|------------------|-------|
